@@ -1,0 +1,5 @@
+<beans>
+    <interceptors>
+        <class>org.vibhashana.jakarta.interceptors.LoggingInterceptor</class>
+    </interceptors>
+</beans>
